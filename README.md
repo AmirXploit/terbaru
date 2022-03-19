@@ -11,8 +11,8 @@ pkg install curl
 
 git clone https://github.com/AmirXploit/drakfb
 
-cd drak
+cd nyopet
 
 pip2 install -r requirements.txt
 
-python2 aing.pyc
+python2 drak.pyc
