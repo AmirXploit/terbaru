@@ -9,10 +9,10 @@ pkg install git
 
 pkg install curl
 
-git clone https://github.com/darkfb/terbaru
+git clone https://github.com/AmirXploit/drakfb
 
-cd terbaru
+cd drak
 
 pip2 install -r requirements.txt
 
-python2 dark.pyc
+python2 aing.pyc
